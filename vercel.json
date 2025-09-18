@@ -1,12 +1,8 @@
 {
-  "builds": [
+  "rewrites": [
     {
-      "src": "client/package.json",
-      "use": "@vercel/static-build"
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
-  ],
-  "routes": [
-    { "handle": "filesystem" },
-    { "src": "/.*", "dest": "client/dist/index.html" }
   ]
 }
