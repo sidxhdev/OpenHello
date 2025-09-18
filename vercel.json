@@ -1,8 +1,12 @@
 {
   "builds": [
-    { "src": "client/package.json", "use": "@vercel/static-build" }
+    {
+      "src": "client/package.json",
+      "use": "@vercel/static-build"
+    }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "client/dist/index.html" }
+    { "handle": "filesystem" },
+    { "src": "/.*", "dest": "client/dist/index.html" }
   ]
 }
