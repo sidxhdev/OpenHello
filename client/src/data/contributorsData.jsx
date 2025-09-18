@@ -4,6 +4,16 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/111569738?v=4",
     githubUrl: "https://github.com/sidxhdev",
   },
+
+
+  {
+    name: "Sail Yeram",
+    photoUrl: "https://avatars.githubusercontent.com/u/119130716?v=4",
+    githubUrl: "https://github.com/sailyeram",
+  },
+  
+ 
+
   {
     name: "Sanika",
     photoUrl: "https://github.com/account",
@@ -134,5 +144,6 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/182794567?v=4",
     githubUrl: "https://github.com/Sumitr995",
   },
+
   // Add more contributors here
 ];
