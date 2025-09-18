@@ -5,6 +5,16 @@ export const contributorsData = [
     githubUrl: "https://github.com/sidxhdev",
   },
   {
+    name: "Pratik Gangurde",
+    photoUrl: "https://avatars.githubusercontent.com/u/162554404?v=4",
+    githubUrl: "https://github.com/PRATIKABAJIGANGURDE",
+  },
+  {
+    name: "Vedant Manwar",
+    photoUrl: "https://avatars.githubusercontent.com/u/220670347?s=400&v=4",
+    githubUrl: "https://github.com/vedant-lab1",
+  },
+  {
     name: "Sanika",
     photoUrl: "https://github.com/account",
     githubUrl: "https://github.com/SanikaJR1512",
@@ -134,5 +144,21 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/182794567?v=4",
     githubUrl: "https://github.com/Sumitr995",
   },
+  {
+    name: "Aayush Shinde",
+    photoUrl: "https://avatars.githubusercontent.com/u/232735140?v=4",
+    githubUrl: "https://github.com/AayushShinde09",
+  },
+  {
+    name: "kadambari tupkar",
+    photoUrl: "https://github.com/account",
+    githubUrl: "https://github.com/kadambari1906",
+  },
+  {
+    name: "Taneesh Sawant",
+    photoUrl: "https://avatars.githubusercontent.com/u/179444959?v=4",
+    githubUrl: "https://github.com/TaneeshCodes",
+  },
+
   // Add more contributors here
 ];
