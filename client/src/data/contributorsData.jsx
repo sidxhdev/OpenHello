@@ -4,6 +4,20 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/111569738?v=4",
     githubUrl: "https://github.com/sidxhdev",
   },
+
+
+  {
+    name: "Sail Yeram",
+    photoUrl: "https://avatars.githubusercontent.com/u/119130716?v=4",
+    githubUrl: "https://github.com/sailyeram",
+  },
+  
+ 
+
+ 
+  
+ 
+
   {
     name: "Pratik Gangurde",
     photoUrl: "https://avatars.githubusercontent.com/u/162554404?v=4",
@@ -144,6 +158,7 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/182794567?v=4",
     githubUrl: "https://github.com/Sumitr995",
   },
+
   {
     name: "Aayush Shinde",
     photoUrl: "https://avatars.githubusercontent.com/u/232735140?v=4",
