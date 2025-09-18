@@ -4,6 +4,13 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/111569738?v=4",
     githubUrl: "https://github.com/sidxhdev",
   },
+
+   {
+    name: "Samreen bano",
+    photoUrl: "https://avatars.githubusercontent.com/u/220556935?v=4",
+    githubUrl: "https://github.com/samreenbano22",
+  },
+
   {
     name: "Siddhi Lagad",
     photoUrl: "https://avatars.githubusercontent.com/u/182053157?v=4",
@@ -16,6 +23,7 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/222207883?v=4",
     githubUrl: "https://github.com/varun-git004",
   },
+
 
   
  {
