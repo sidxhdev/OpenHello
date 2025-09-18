@@ -3,7 +3,15 @@ export const contributorsData = [
     name: "Siddesh Navthale",
     photoUrl: "https://avatars.githubusercontent.com/u/178910823?s=400&v=4",
     githubUrl: "https://github.com/sidxhdev",
+  }
+  {
+    name: "versetile varun",
+    photoUrl: "https://avatars.githubusercontent.com/u/222207883?v=4",
+    githubUrl: "https://github.com/varun-git004",
   },
+
+ 
+
   {
     name: "Deep Keni",
     photoUrl: "https://avtars.githubusercontent.com/u/220671308?s=400&u=1a50b953088645caf2cd88e42eca8d0b5627d1d9&v=4",
