@@ -15,6 +15,15 @@ export const contributorsData = [
  
 
   {
+
+    name: "Taneesh Sawant",
+    photoUrl: "https://avatars.githubusercontent.com/u/179444959?v=4",
+    githubUrl: "https://github.com/TaneeshCodes",
+  },
+  
+ 
+
+  {
     name: "Sanika",
     photoUrl: "https://github.com/account",
     githubUrl: "https://github.com/SanikaJR1512",
