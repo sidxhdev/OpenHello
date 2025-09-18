@@ -41,6 +41,11 @@ export const contributorsData = [
     photoUrl: "https://github.com/account",
     githubUrl: "https://github.com/santoshichoudhary190-droid",
   },
+  {
+    name: "Diya Patel",
+    photoUrl: "https://avatars.githubusercontent.com/u/182648360?v=4&size=64",
+    githubUrl: "https://github.com/diya070405",
+  },
   
   {
     name: "Shashank Bankar",
