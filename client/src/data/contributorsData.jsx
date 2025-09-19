@@ -4,6 +4,11 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/111569738?v=4",
     githubUrl: "https://github.com/sidxhdev",
   },
+  {
+    name: "Ankita Jadhav",
+    photourl: "https://avatars.githubusercontent.com/u/182097901?v=4",
+    githubUrl: "https://github.com/ankita261152",  
+  },
 
   {
     name: "Sail Yeram",
