@@ -72,6 +72,11 @@ export const contributorsData = [
     githubUrl: "https://github.com/Anilyadav20",
   },
   {
+    name: "Jayesh Narkar",
+    photoUrl: "https://avatars.githubusercontent.com/JayeshNarkar",
+    githubUrl: "https://github.com/JayeshNarkar",
+  },
+  {
     name: "Yash Satptue",
     photoUrl: "https://avatars.githubusercontent.com/u/222073891?v=4",
     githubUrl: "https://github.com/Yash-Satpute",
