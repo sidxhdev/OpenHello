@@ -6,7 +6,7 @@ export const contributorsData = [
   },
   {
     name: "Ankita Jadhav",
-    photourl: "https://avatars.githubusercontent.com/u/182097901?v=4",
+    photoUrl: "https://avatars.githubusercontent.com/u/182097901?v=4",
     githubUrl: "https://github.com/ankita261152",  
   },
 
