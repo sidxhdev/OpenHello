@@ -9,6 +9,11 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/182097901?v=4",
     githubUrl: "https://github.com/ankita261152",  
   },
+  {
+    name: "TIKMARAM PRAJAPATI",
+    photoUrl: "https://avatars.githubusercontent.com/u/155536285?v=4",
+    githubUrl: "https://github.com/Ramprajapat28",  
+  },
 
   {
     name: "Sail Yeram",
